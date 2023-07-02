@@ -1,0 +1,2 @@
+<h2>Bu Ajax ile yüklendi</h2>
+<p id="p1">Bu sayfa yenilenmeden yüklendi.</p>
